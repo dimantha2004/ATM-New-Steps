@@ -11,7 +11,7 @@ interface Translations {
 export const translations: Translations = {
   en: {
     header: {
-      title: 'BOC BOC BOC BOC BOC BOC',
+      title: 'BOC - Bank Of Ceylon',
       darkMode: 'Switch to dark mode',
       lightMode: 'Switch to light mode'
     },
